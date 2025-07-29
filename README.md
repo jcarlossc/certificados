@@ -97,3 +97,31 @@ certificados/<br>
 │ └── 4-certificados<br>
 ├── Outros<br>
 │ └── 11-certificados<br>
+
+
+
+---
+
+## 👨‍💼 Sobre Mim
+
+**José Carlos Soare da Costa**  
+Recife, PE - Brasil  
+Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
+LinkedIn: [linkedin.com/in/carlos-da-costa-669252149](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
+GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
+Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)
+
+---
+
+## 🚀 Portfólio
+
+Veja meus projetos práticos e aplicações reais em:
+
+👉 **[portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)**
+
+---
+
+## 💬 Licença
+
+Este repositório é apenas demonstrativo, com intuito de compartilhar minha formação contínua. Os certificados são pessoais e intransferíveis.
+
