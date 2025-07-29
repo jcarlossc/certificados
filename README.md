@@ -6,7 +6,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ### 🐍 Python (Foco principal)
 - Manipulação de dados com `pandas`, `numpy`
-- APIs com `Flask` e `FastAPI`
+- APIs com `Flask` e `Bottle`
 - Orientação a Objetos, Padrões de Projeto (SOLID, Strategy, Command etc.)
 - Testes com `unittest`
 - Web scraping com `requests`, `BeautifulSoup`, `Selenium`
