@@ -63,36 +63,37 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 | Python     | Python para Data Science - DIO         | ✅ Concluído |
 | Python     | APIs com Flask - Curso próprio         | ✅ Concluído |
 | SQL        | SQL Completo - Curso em Vídeo / Alura  | ✅ Concluído |
-| Git & GitHub | Git/GitHub Profissional - Udemy     | ✅ Concluído |
+| Git & GitHub | Git/GitHub Profissional - Udemy      | ✅ Concluído |
 | HTML/CSS   | HTML5 & CSS3 - Curso em Vídeo          | ✅ Concluído |
 | Java       | Fundamentos de Java - DIO / Alura      | ✅ Concluído |
 | JavaScript | JS Essencial - Curso em Vídeo / Udemy  | ✅ Concluído |
 | Linux      | Linux Fundamentals - LinuxTips         | ✅ Concluído |
 | PHP        | PHP para Iniciantes - Curso em Vídeo   | ✅ Concluído |
 | Spring Boot| APIs REST com Spring Boot - Udemy      | ✅ Concluído |
+| Outros     | Miscelânea - DIO                       | ✅ Concluído |
 
 ---
 
 ## 📂 Organização dos Arquivos
 
-certificados/
-├── python/
-│ ├── 22-certificados
-├── sql/
-│ └── 2-certificados
-├── git-github/
-│ └── 3-certificados
-├── html-css/
-│ └── 5-certificados
-├── java/
-│ └── 12-certificados
-├── javascript/
-│ └── 8-certificados
-├── linux/
-│ └── 1-certificado
-├── php/
-│ └── 8-certificados
-├── spring-boot/
-│ └── 4-certificados
-├── Outros
-│ └── 11-certificados
+certificados/<br>
+├── python/<br>
+│ ├── 22-certificados<br>
+├── sql/<br>
+│ └── 2-certificados<br>
+├── git-github/<br>
+│ └── 3-certificados<br>
+├── html-css/<br>
+│ └── 5-certificados<br>
+├── java/<br>
+│ └── 12-certificados<br>
+├── javascript/<br>
+│ └── 8-certificados<br>
+├── linux/<br>
+│ └── 1-certificado<br>
+├── php/<br>
+│ └── 8-certificados<br>
+├── spring-boot/<br>
+│ └── 4-certificados<br>
+├── Outros<br>
+│ └── 11-certificados<br>
