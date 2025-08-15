@@ -18,6 +18,12 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ---
 
+### 🗄️ Modelo de Linguagem de Grande Escala - Aprendizado de Máquina
+- Arquitetura e Estrutura dos LLMs
+- Fundamentos do LLM
+- Introdução ao Machine Learning
+- ...
+
 ### 🗄️ SQL
 - Modelagem de dados e normalização
 - Comandos DDL, DML, DQL
@@ -62,6 +68,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 |------------|---------------------|--------|
 | Python     | Python para Data Science - DIO         | ✅ Concluído |
 | Python     | APIs com Flask - Curso próprio         | ✅ Concluído |
+| LLM        | Modelo de Linguagem de Grande Escala   | ✅ Concluído |
 | SQL        | SQL Completo - Curso em Vídeo / Alura  | ✅ Concluído |
 | Git & GitHub | Git/GitHub Profissional - Udemy      | ✅ Concluído |
 | HTML/CSS   | HTML5 & CSS3 - Curso em Vídeo          | ✅ Concluído |
@@ -78,7 +85,9 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 certificados/<br>
 ├── python/<br>
-│ ├── 22-certificados<br>
+│ └── 22-certificados<br>
+├── Modelo de Linguagem de Grande Escala - Machine Learning<br>
+| └── 8 certificados<br>
 ├── sql/<br>
 │ └── 2-certificados<br>
 ├── git-github/<br>
