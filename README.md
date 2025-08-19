@@ -54,10 +54,10 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/python.png" alt="Texto alternativo" width="20"/> Python - Data Science</caption>
+    <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
   <tr>
-    <td><img src="imagens/data_science/imersao_dados_python.png" alt="Texto alternativo" width="200"/> </td>
-    <td><img src="imagens/data_science/tratamento_dados.png" alt="Texto alternativo" width="200"/></td>
+    <td><img src="imagens/data_science/imersao_dados_python.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
@@ -90,6 +90,23 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/machine_learning/scilab_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
     <td><img src="imagens/machine_learning/svm.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+</table>
+
+<table>
+    <caption><img src="icons/database.png" alt="Ícone-Banco-Dados" width="20"/> Banco de Dados</caption>
+  <tr>
+    <td><img src="imagens/banco_dados/banco_dados_postgreSQL.png" alt="Certificado-Banco-Dados" width="200"/> </td>
+    <td><img src="imagens/banco_dados/banco_dados_relacionais_sql.png" alt="Certificado-Banco-Dados" width="200"/></td>
+  </tr>
+</table>
+
+<table>
+    <caption><img src="icons/github.png" alt="Ícone-Github" width="20"/> Git/Github</caption>
+  <tr>
+    <td><img src="imagens/git_github/github_git.png" alt="Certificado-Git-Github" width="200"/> </td>
+    <td><img src="imagens/git_github/introducao_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
+    <td><img src="imagens/git_github/versionamento_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
   </tr>
 </table>
 
