@@ -20,72 +20,9 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ---
 
-### 🗄️Machine Learning - Aprendizado de Máquina
-- Arquitetura e Estrutura dos LLMs
-- Fundamentos do LLM
-- Introdução ao Machine Learning
-- ...
-
-### 🗄️ SQL
-- Modelagem de dados e normalização
-- Comandos DDL, DML, DQL
-- Consultas avançadas (JOIN, GROUP BY, HAVING, SUBQUERIES)
-- Uso com `SQLite`, `MySQL`, `MariaDB`, e integração com Python
-
-### 🔧 Git & GitHub
-- Versionamento de código
-- Branching, Merge, Pull Requests
-- Fluxo GitHub Flow e GitHub Actions (CI/CD)
-
-### 🌐 HTML & CSS
-- Criação de páginas responsivas com `Flexbox` e `Grid`
-- Uso de `Bootstrap`
-- Noções de acessibilidade e SEO básico
-
-### ☕ Java & Spring Boot
-- Fundamentos da linguagem Java
-- Programação orientada a objetos
-- Criação de APIs REST com Spring Boot
-
-### 💻 Linux
-- Comandos básicos e intermediários no terminal
-- Gerenciamento de pacotes (apt, yum)
-- Permissões, processos e automação com shell script
-
-### 📜 PHP
-- Estruturas de controle e manipulação de formulários
-- Integração com banco de dados
-- Desenvolvimento web básico
-
-### ⚡ JavaScript
-- Manipulação de DOM
-- Eventos e interatividade
-- Consumo de APIs via `fetch`
-
----
-
 ## 🗂️ Lista de Certificados
-
-| Tecnologia | Categoria | Status |
-|------------|---------------------|--------|
-| Python     |
-| <img src="imagens/data_science/imersao_dados_python.png" alt="Texto alternativo" width="200"/> | <img src="imagens/data_science/tratamento_dados.png" alt="Texto alternativo" width="200"/>         | ✅ Concluído |
-| Python     | APIs com Flask - Curso próprio         | ✅ Concluído |
-| LLM        | Modelo de Linguagem de Grande Escala   | ✅ Concluído |
-| SQL        | SQL Completo - Curso em Vídeo / Alura  | ✅ Concluído |
-| Git & GitHub | Git/GitHub Profissional - Udemy      | ✅ Concluído |
-| HTML/CSS   | HTML5 & CSS3 - Curso em Vídeo          | ✅ Concluído |
-| Java       | Fundamentos de Java - DIO / Alura      | ✅ Concluído |
-| JavaScript | JS Essencial - Curso em Vídeo / Udemy  | ✅ Concluído |
-| Linux      | Linux Fundamentals - LinuxTips         | ✅ Concluído |
-| PHP        | PHP para Iniciantes - Curso em Vídeo   | ✅ Concluído |
-| Spring Boot| APIs REST com Spring Boot - Udemy      | ✅ Concluído |
-| Outros     | Miscelânea - DIO                       | ✅ Concluído |
-
----
-
 <table>
-    <caption><img src="icons/python.png" alt="Ícone-Python" width="30"/> Python</caption>
+    <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
     <td><img src="imagens/python/ambiente_python.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/condicionais_repeticao_python.png" alt="Certificado-Python" width="200"/></td>
@@ -114,10 +51,10 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/python/strings_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/tupla_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
-  
 </table>
+
 <table>
-    <caption><img src="icons/python.png" alt="Texto alternativo" width="30"/> Python - Data Science</caption>
+    <caption><img src="icons/python.png" alt="Texto alternativo" width="20"/> Python - Data Science</caption>
   <tr>
     <td><img src="imagens/data_science/imersao_dados_python.png" alt="Texto alternativo" width="200"/> </td>
     <td><img src="imagens/data_science/tratamento_dados.png" alt="Texto alternativo" width="200"/></td>
@@ -127,37 +64,34 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr>
 </table>
 
----
-
-## 📂 Organização dos Arquivos
-
-certificados/<br>
-├── python/<br>
-│ └── 22-certificados<br>
-├── Machine Learning<br>
-| └── 17 certificados<br>
-├── Análise de Dados<br>
-| └── 2 certificados<br>
-├── sql/<br>
-│ └── 2-certificados<br>
-├── git-github/<br>
-│ └── 3-certificados<br>
-├── html-css/<br>
-│ └── 5-certificados<br>
-├── java/<br>
-│ └── 12-certificados<br>
-├── javascript/<br>
-│ └── 8-certificados<br>
-├── linux/<br>
-│ └── 1-certificado<br>
-├── php/<br>
-│ └── 8-certificados<br>
-├── spring-boot/<br>
-│ └── 4-certificados<br>
-├── Outros<br>
-│ └── 11-certificados<br>
-
-
+<table>
+    <caption><img src="icons/machine.png" alt="Ícone-Machine-Learning" width="20"/> Machine Learning - Python/R/Scilab/Anaconda/Colab/Jupyter</caption>
+  <tr>
+    <td><img src="imagens/machine_learning/algoritmos_geneticos.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/anaconda.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/arquitetura_estrutura_llm.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/colab.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/esplorando_datasets.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+  <tr>
+    <td><img src="imagens/machine_learning/fundamentos_llm.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/introducao_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/linguagens_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/introducao_machine_learning_1.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/introducao_machine_learning_2.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+  <tr>
+    <td><img src="imagens/machine_learning/machine_learning_bioinspiradas.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/programacao_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/python_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/r_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/redes_neurais_artificiais.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+  <tr>
+    <td><img src="imagens/machine_learning/scilab_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/svm.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+</table>
 
 ---
 
