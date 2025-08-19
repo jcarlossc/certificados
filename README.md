@@ -102,11 +102,28 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/github.png" alt="Ícone-Github" width="20"/> Git/Github</caption>
+    <caption><img src="icons/git.png" alt="Ícone-Git" width="20"/><img src="icons/github.png" alt="Ícone-Github" width="20"/> Git/Github</caption>
   <tr>
     <td><img src="imagens/git_github/github_git.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/introducao_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/versionamento_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
+  </tr>
+</table>
+
+<table>
+    <caption><img src="icons/html.png" alt="Ícone-Html" width="20"/><img src="icons/css.png" alt="Ícone-Css" width="20"/> Html/Css</caption>
+  <tr>
+    <td><img src="imagens/html_css/html_basico.png" alt="Certificado-Html-Css" width="200"/> </td>
+    <td><img src="imagens/html_css/internet_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
+    <td><img src="imagens/html_css/introducao_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
+    <td><img src="imagens/html_css/websites_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
+  </tr>
+</table>
+
+<table>
+    <caption><img src="icons/javascript.png" alt="Ícone-Javascript" width="20"/> Html/Css</caption>
+  <tr>
+    <td><img src="imagens/javascript/biblioteca_jquery.png" alt="Certificado-Javascripts" width="200"/> </td>
   </tr>
 </table>
 
