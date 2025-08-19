@@ -161,6 +161,54 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr>   
 </table>
 
+<table>
+    <caption><img src="icons/java.png" alt="Ícone-Java" width="20"/> Java</caption>
+  <tr>
+    <td><img src="imagens/java/ambiente_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/collection_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/condicionais_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/ecossistema_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/excecoes_java.png" alt="Certificado-Java" width="200"/> </td>
+  </tr>   
+  <tr>
+    <td><img src="imagens/java/ides_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/maven_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/plataforma_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/poo_fundamentos_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/poo_java.png" alt="Certificado-Java" width="200"/> </td>
+  </tr>   
+  <tr>
+    <td><img src="imagens/java/sintaxe_java.png" alt="Certificado-Java" width="200"/> </td>
+    <td><img src="imagens/java/stream_api.png" alt="Certificado-Java" width="200"/> </td>
+  </tr>   
+</table>
+
+<table>
+    <caption><img src="icons/spring.png" alt="Ícone-spring-boot" width="20"/> Spring Boot</caption>
+  <tr>
+    <td><img src="imagens/spring_boot/api_rest_java.png" alt="Certificado-Spring-Boot" width="200"/> </td>
+    <td><img src="imagens/spring_boot/api_rest_spring_java.png" alt="Certificado-Spring-Boot" width="200"/> </td>
+    <td><img src="imagens/spring_boot/framework_spring_boot.png" alt="Certificado-Spring-Boot" width="200"/> </td>
+    <td><img src="imagens/spring_boot/spring_boot_3.png" alt="Certificado-Spring-Boot" width="200"/> </td>
+  </tr>    
+</table>
+
+<table>
+    <caption><img src="icons/php.png" alt="Ícone-Php" width="20"/> Php</caption>
+  <tr>
+    <td><img src="imagens/php/composer_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/condicionais_loops_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/debug_excecoes_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/ecossistema_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/introducao_php.png" alt="Certificado-Php" width="200"/> </td>
+  </tr>    
+  <tr>
+    <td><img src="imagens/php/poo_excecoes_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/poo_php.png" alt="Certificado-Php" width="200"/> </td>
+    <td><img src="imagens/php/variaveis_php.png" alt="Certificado-Php" width="200"/> </td>
+  </tr>    
+</table>
+
 ---
 
 ## 👨‍💼 Sobre Mim
@@ -168,6 +216,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 **José Carlos Soare da Costa**  
 Recife, PE - Brasil  
 Telefone: +55 81 99712 9140<br>
+Telegram: @jcarlossc<br>
 Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
 LinkedIn: [linkedin.com/in/carlos-da-costa-669252149](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
 GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
