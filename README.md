@@ -121,10 +121,44 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/javascript.png" alt="Ícone-Javascript" width="20"/> Html/Css</caption>
+    <caption><img src="icons/javascript.png" alt="Ícone-Javascript" width="20"/> Javascript</caption>
   <tr>
     <td><img src="imagens/javascript/biblioteca_jquery.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/dom_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/javascript_es6.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/performace_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/programacao_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
   </tr>
+  <tr>
+    <td><img src="imagens/javascript/sintaxe_basica_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/sintaxe_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/web_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+  </tr>    
+</table>
+
+<table>
+    <caption><img src="icons/linux.png" alt="Ícone-Linux" width="20"/> Linux</caption>
+  <tr>
+    <td><img src="imagens/linux/linux.png" alt="Certificado-Linux" width="200"/> </td>
+  </tr>  
+</table>
+
+<table>
+    <caption><img src="icons/web.png" alt="Ícone-web" width="20"/> Miscelânea</caption>
+  <tr>
+    <td><img src="imagens/outros/arquitetura_sistemas.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/arquitetura_sistemas_fundamentos.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/desenvolvimento_web.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/estrutura_dados_algoritmo.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/logica_programacao.png" alt="Certificado-Sistemas" width="200"/> </td>
+  </tr>  
+  <tr>
+    <td><img src="imagens/outros/responsividade.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/responsividade_usuario.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/scrum.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/shell_script.png" alt="Certificado-Sistemas" width="200"/> </td>
+    <td><img src="imagens/outros/web_components.png" alt="Certificado-Sistemas" width="200"/> </td>
+  </tr>   
 </table>
 
 ---
