@@ -90,6 +90,15 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/machine_learning/scilab_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
     <td><img src="imagens/machine_learning/svm.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/treinamento_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/validacao_treinamento.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/supervisionado_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+  </tr>
+  <tr>
+    <td><img src="imagens/machine_learning/otimizacao_aprendizado.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/regressao_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/reforco_machine_learning.png" alt="Certificado-Machine-Learning" width="200"/> </td>
+    <td><img src="imagens/machine_learning/treinamento_nao_supervisionado.png" alt="Certificado-Machine-Learning" width="200"/> </td>
   </tr>
 </table>
 
