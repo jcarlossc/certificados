@@ -53,6 +53,8 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr> 
   <tr>
     <td><img src="imagens/python/ambiente_python.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/decoradores.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/datetime.png" alt="Certificado-Python" width="200"/> </td>
   </tr> 
 </table>
 
@@ -64,6 +66,9 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
   </tr>
 </table>
 
