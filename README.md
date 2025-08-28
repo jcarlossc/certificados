@@ -55,6 +55,11 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/python/ambiente_python.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/decoradores.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/datetime.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/pacotes.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/arquivos.png" alt="Certificado-Python" width="200"/> </td>
+  </tr> 
+  <tr>
+    <td><img src="imagens/python/rest.png" alt="Certificado-Python" width="200"/> </td>
   </tr> 
 </table>
 
@@ -115,6 +120,8 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/banco_dados/banco_dados_postgreSQL.png" alt="Certificado-Banco-Dados" width="200"/> </td>
     <td><img src="imagens/banco_dados/banco_dados_relacionais_sql.png" alt="Certificado-Banco-Dados" width="200"/></td>
+    <td><img src="imagens/banco_dados/introducao_bd.png" alt="Certificado-Banco-Dados" width="200"/></td>
+    <td><img src="imagens/banco_dados/bd_relacional.png" alt="Certificado-Banco-Dados" width="200"/></td>
   </tr>
 </table>
 
