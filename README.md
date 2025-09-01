@@ -74,6 +74,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr>
   <tr>
     <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Python" width="200"/> </td>
   </tr>
 </table>
 
@@ -122,6 +123,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/banco_dados/banco_dados_relacionais_sql.png" alt="Certificado-Banco-Dados" width="200"/></td>
     <td><img src="imagens/banco_dados/introducao_bd.png" alt="Certificado-Banco-Dados" width="200"/></td>
     <td><img src="imagens/banco_dados/bd_relacional.png" alt="Certificado-Banco-Dados" width="200"/></td>
+    <td><img src="imagens/banco_dados/mongo.png" alt="Certificado-Banco-Dados" width="200"/></td>
   </tr>
 </table>
 
@@ -135,12 +137,13 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/html.png" alt="Ícone-Html" width="20"/><img src="icons/css.png" alt="Ícone-Css" width="20"/> Html/Css</caption>
+    <caption><img src="icons/html.png" alt="Ícone-Html" width="20"/><img src="icons/css.png" alt="Ícone-Css" width="20"/> Html/Css/Bootstrap</caption>
   <tr>
     <td><img src="imagens/html_css/html_basico.png" alt="Certificado-Html-Css" width="200"/> </td>
     <td><img src="imagens/html_css/internet_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
     <td><img src="imagens/html_css/introducao_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
     <td><img src="imagens/html_css/websites_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
+    <td><img src="imagens/html_css/bootstrap.png" alt="Certificado-Html-Css" width="200"/> </td>
   </tr>
 </table>
 
