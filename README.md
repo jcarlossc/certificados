@@ -144,7 +144,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/html.png" alt="Ícone-Html" width="20"/><img src="icons/css.png" alt="Ícone-Css" width="20"/> Html/Css/Bootstrap</caption>
+    <caption><img src="icons/html.png" alt="Ícone-Html" width="20"/><img src="icons/css.png" alt="Ícone-Css" width="20"/><img src="icons/bootstrap.png" alt="Ícone-Css" width="20"/> Html/Css/Bootstrap</caption>
   <tr>
     <td><img src="imagens/html_css/html_basico.png" alt="Certificado-Html-Css" width="200"/> </td>
     <td><img src="imagens/html_css/internet_html5_css3.png" alt="Certificado-Html-Css" width="200"/> </td>
