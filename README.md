@@ -64,6 +64,13 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
+    <caption><img src="icons/r.png" alt="Ícone-R" width="20"/> R</caption>
+  <tr>
+    <td><img src="imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
+  </tr>   
+</table>
+
+<table>
     <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
   <tr>
     <td><img src="imagens/data_science/imersao_dados_python.png" alt="Certificado-Python" width="200"/> </td>
