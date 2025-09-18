@@ -1,10 +1,10 @@
-# 📜 Meus Certificados em Tecnologia
+# 📌 Meus Certificados em Tecnologia
 
 Este repositório reúne meus principais certificados em tecnologia, conquistados ao longo da minha jornada de transição de carreira. Eles representam minha dedicação constante ao aprendizado e à prática de habilidades essenciais para o desenvolvimento de software, com **ênfase em Python** e também abrangendo outras linguagens e áreas fundamentais.
 
-## 🧠 Principais Competências
+## 📌 Principais Competências
 
-### 🐍 Python (Foco principal)
+### 📌 Python (Foco principal)
 - Manipulação de dados com `pandas`, `numpy`
 - APIs com `Flask` e `Bottle`
 - Orientação a Objetos, Padrões de Projeto (SOLID, Strategy, Command etc.)
@@ -15,12 +15,12 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 - Análise de dados
 - Visualização de dados
 
-> ✅ Veja os projetos práticos com Python no meu portfólio:  
+> 📌 Veja os projetos práticos com Python no meu portfólio:  
 > 🔗 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
 
 ---
 
-## 🗂️ Lista de Certificados
+## 📌 Lista de Certificados
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
@@ -245,28 +245,32 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ---
 
-## 👨‍💼 Sobre Mim
+## 📌 Sobre Mim - Contatos
 
 **José Carlos Soare da Costa**  
-Recife, PE - Brasil  
-Telefone: +55 81 99712 9140<br>
-Telegram: @jcarlossc<br>
-Email: [jcarlossc1977@gmail.com](mailto:jcarlossc1977@gmail.com)  
-LinkedIn: [linkedin.com/in/carlos-da-costa-669252149](https://www.linkedin.com/in/carlos-da-costa-669252149/)  
-GitHub: [github.com/jcarlossc](https://github.com/jcarlossc)  
-Kaggle: [kaggle.com/jcarlossc](https://www.kaggle.com/jcarlossc/code)
+📌Recife, PE - Brasil<br>
+📌Telefone: +55 81 99712 9140<br>
+📌Telegram: @jcarlossc<br>
+📌Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
+📌Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
+📌Email: jcarlossc1977@gmail.com<br>
+📌Portfólio em construção: https://portfolio-carlos-costa.netlify.app/<br>
+📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
+📌GitHub: https://github.com/jcarlossc<br>
+📌Kaggle: https://www.kaggle.com/jcarlossc/  
+📌Twitter/X: https://x.com/jcarlossc1977
 
 ---
 
-## 🚀 Portfólio
+## 📌 Portfólio
 
 Veja meus projetos práticos e aplicações reais em:
 
-👉 **[portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)**
+📌 **[portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)**
 
 ---
 
-## 💬 Licença
+## 📌 Licença
 
 Este repositório é apenas demonstrativo, com intuito de compartilhar minha formação contínua. Os certificados são pessoais e intransferíveis.
 
