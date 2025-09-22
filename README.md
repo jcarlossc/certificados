@@ -24,41 +24,42 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
-    <td><img src="imagens/python/python.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/python_cursor.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/condicionais_repeticao_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/conjuntos_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dicionarios_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
   </tr>
   <tr>
+    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python1.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/heranca_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/interface_abstrata_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
   <tr>
+    <td><img src="imagens/python/interface_abstrata_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/linguagem_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/listas_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/logica_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/operadores_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/polimosfismo_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
   <tr>
+    <td><img src="imagens/python/polimosfismo_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/poo_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/portfolio.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/sistema_bancario.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/strings_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/tupla_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
   <tr>
+    <td><img src="imagens/python/tupla_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/ambiente_python.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/decoradores.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/datetime.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/pacotes.png" alt="Certificado-Python" width="200"/> </td>
-    <td><img src="imagens/python/arquivos.png" alt="Certificado-Python" width="200"/> </td>
   </tr> 
   <tr>
+    <td><img src="imagens/python/arquivos.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/rest.png" alt="Certificado-Python" width="200"/> </td>
   </tr> 
 </table>
