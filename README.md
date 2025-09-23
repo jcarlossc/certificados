@@ -24,11 +24,11 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
+    <td><img src="imagens/python/agentes-python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python_cursor.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/condicionais_repeticao_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/conjuntos_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/dicionarios_python.png" alt="Certificado-Python" width="200"/></td>
   </tr>
   <tr>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
@@ -61,6 +61,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/python/arquivos.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/rest.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/python/dicionarios_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
 </table>
 
@@ -68,6 +69,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <caption><img src="icons/r.png" alt="Ícone-R" width="20"/> R</caption>
   <tr>
     <td><img src="imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
+    <td><img src="imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
   </tr>   
 </table>
 
