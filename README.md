@@ -22,6 +22,13 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ## 📌 Lista de Certificados
 <table>
+    <caption><img src="icons/estatistica.png" alt="Ícone-Banco-Dados" width="20"/> Estatística</caption>
+  <tr>
+    
+  </tr>
+</table>
+
+<table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
     <td><img src="imagens/python/agentes-python.png" alt="Certificado-Python" width="200"/></td>
