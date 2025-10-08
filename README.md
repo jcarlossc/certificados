@@ -27,11 +27,11 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/python/agentes-python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python_cursor.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/condicionais_repeticao_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/conjuntos_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/python3.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/python80.png" alt="Certificado-Python" width="200"/></td>
   </tr>
   <tr>
-    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/python_enap.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python1.png" alt="Certificado-Python" width="200"/></td>
@@ -62,6 +62,11 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/python/arquivos.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/rest.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/dicionarios_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/condicionais_repeticao_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/conjuntos_python.png" alt="Certificado-Python" width="200"/></td>   
+  </tr> 
+  <tr>
+    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
 </table>
 
@@ -140,6 +145,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/git.png" alt="Ícone-Git" width="20"/><img src="icons/github.png" alt="Ícone-Github" width="20"/> Git/Github</caption>
   <tr>
+    <td><img src="imagens/git_github/git_github_alura.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/github_git.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/introducao_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/versionamento_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
