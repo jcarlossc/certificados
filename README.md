@@ -22,6 +22,13 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ## 📌 Lista de Certificados
 <table>
+    <caption><img src="icons/graduacao.png" alt="Ícone-Banco-Dados" width="20"/> Graduação: Análise e Desenvolvimento de Sistemas</caption>
+  <tr>
+     <td><img src="imagens/graduacao.png" alt="Certificado-Python" width="200"/></td>
+  </tr>
+</table>
+
+<table>
     <caption><img src="icons/estatistica.png" alt="Ícone-Banco-Dados" width="20"/> Estatística</caption>
   <tr>
     
