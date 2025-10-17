@@ -31,25 +31,26 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/estatistica.png" alt="Ícone-Banco-Dados" width="20"/> Estatística</caption>
   <tr>
-    
+    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/estatistica/estatistica.png" alt="Certificado-Python" width="200"/> </td>
   </tr>
 </table>
 
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
+    <td><img src="imagens/data_science/imersao_dados_python.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/python/agentes-python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python_cursor.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python3.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/python80.png" alt="Certificado-Python" width="200"/></td>
   </tr>
   <tr>
+    <td><img src="imagens/python/python80.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python_enap.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python1.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/heranca_python.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
   <tr>
     <td><img src="imagens/python/interface_abstrata_python.png" alt="Certificado-Python" width="200"/></td>
@@ -81,6 +82,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr> 
   <tr>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/heranca_python.png" alt="Certificado-Python" width="200"/></td>  
   </tr> 
 </table>
 
@@ -95,18 +97,16 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
   <tr>
-    <td><img src="imagens/data_science/imersao_dados_python.png" alt="Certificado-Python" width="200"/> </td>
     <td><img src="imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
-  </tr>
-  <tr>
     <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
-    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Python" width="200"/> </td>
+  </tr>
+    <tr>
+    <td><img src="imagens/data_science/big_data.png" alt="Certificado-Big_data" width="200"/></td>
   </tr>
 </table>
-
 <table>
     <caption><img src="icons/machine.png" alt="Ícone-Machine-Learning" width="20"/> Machine Learning - Python/R/Scilab/Anaconda/Colab/Jupyter</caption>
   <tr>
@@ -163,6 +163,10 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/git_github/github_git.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/introducao_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
     <td><img src="imagens/git_github/versionamento_git_github.png" alt="Certificado-Git-Github" width="200"/> </td>
+    <td><img src="imagens/git_github/github_copilot1.png" alt="Certificado-Git-Github" width="200"/> </td>
+  </tr>
+  <tr>
+    <td><img src="imagens/git_github/github_copilot2.png" alt="Certificado-Git-Github" width="200"/> </td>
   </tr>
 </table>
 
@@ -192,14 +196,12 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/javascript/web_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
   </tr>    
 </table>
-
 <table>
     <caption><img src="icons/linux.png" alt="Ícone-Linux" width="20"/> Linux</caption>
   <tr>
     <td><img src="imagens/linux/linux.png" alt="Certificado-Linux" width="200"/> </td>
   </tr>  
 </table>
-
 <table>
     <caption><img src="icons/web.png" alt="Ícone-web" width="20"/> Miscelânea</caption>
   <tr>
