@@ -270,7 +270,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ---
 
-## 📌 Sobre Mim - Contatos
+## 📌 Contatos
 
 **José Carlos Soare da Costa**  
 📌Recife, PE - Brasil<br>
