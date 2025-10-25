@@ -29,10 +29,11 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/estatistica.png" alt="Ícone-Banco-Dados" width="20"/> Estatística</caption>
+    <caption><img src="icons/estatistica.png" alt="Ícone-Estatística" width="20"/> Estatística</caption>
   <tr>
-    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Python" width="200"/> </td>
-    <td><img src="imagens/estatistica/estatistica.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="imagens/estatistica/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="imagens/estatistica/estatistica10.png" alt="Certificado-Estatística" width="200"/> </td>
   </tr>
 </table>
 
@@ -194,6 +195,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="imagens/javascript/sintaxe_basica_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
     <td><img src="imagens/javascript/sintaxe_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
     <td><img src="imagens/javascript/web_javascript.png" alt="Certificado-Javascripts" width="200"/> </td>
+    <td><img src="imagens/javascript/javascript10.png" alt="Certificado-Javascripts" width="200"/> </td>
   </tr>    
 </table>
 <table>
