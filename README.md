@@ -38,6 +38,28 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
+    <caption><img src="icons/r.png" alt="Ícone-R" width="20"/> R</caption>
+  <tr>
+    <td><img src="imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
+    <td><img src="imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
+  </tr>   
+</table>
+
+<table>
+    <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
+  <tr>
+    <td><img src="imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
+  </tr>
+    <tr>
+    <td><img src="imagens/data_science/big_data.png" alt="Certificado-Big_data" width="200"/></td>
+  </tr>
+</table>
+
+<table>
     <caption><img src="icons/python.png" alt="Ícone-Python" width="20"/> Python</caption>
   <tr>
     <td><img src="imagens/data_science/imersao_dados_python.png" alt="Certificado-Python" width="200"/> </td>
@@ -87,27 +109,6 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   </tr> 
 </table>
 
-<table>
-    <caption><img src="icons/r.png" alt="Ícone-R" width="20"/> R</caption>
-  <tr>
-    <td><img src="imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
-    <td><img src="imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
-  </tr>   
-</table>
-
-<table>
-    <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
-  <tr>
-    <td><img src="imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
-  </tr>
-    <tr>
-    <td><img src="imagens/data_science/big_data.png" alt="Certificado-Big_data" width="200"/></td>
-  </tr>
-</table>
 <table>
     <caption><img src="icons/machine.png" alt="Ícone-Machine-Learning" width="20"/> Machine Learning - Python/R/Scilab/Anaconda/Colab/Jupyter</caption>
   <tr>
