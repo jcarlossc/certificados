@@ -24,38 +24,38 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 <table>
     <caption><img src="icons/graduacao.png" alt="Ícone-Banco-Dados" width="20"/> Graduação: Análise e Desenvolvimento de Sistemas</caption>
   <tr>
-     <td><img src="imagens/graduacao.png" alt="Certificado-Python" width="200"/></td>
+     <td><img src="./imagens/graduacao.png" alt="Certificado-Python" width="200"/></td>
   </tr>
 </table>
 
 <table>
     <caption><img src="icons/estatistica.png" alt="Ícone-Estatística" width="20"/> Estatística</caption>
   <tr>
-    <td><img src="imagens/data_science/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
-    <td><img src="imagens/estatistica/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
-    <td><img src="imagens/estatistica/estatistica10.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="./imagens/data_science/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="./imagens/estatistica/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="./imagens/estatistica/estatistica10.png" alt="Certificado-Estatística" width="200"/> </td>
   </tr>
 </table>
 
 <table>
     <caption><img src="icons/r.png" alt="Ícone-R" width="20"/> R</caption>
   <tr>
-    <td><img src="imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
-    <td><img src="imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
+    <td><img src="./imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
+    <td><img src="./imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
   </tr>   
 </table>
 
 <table>
     <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
   <tr>
-    <td><img src="imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
+    <td><img src="./imagens/data_science/tratamento_dados.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="./imagens/python/dados_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="./imagens/python/dados_python1.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="./imagens/python/engenharia_dados_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="./imagens/data_science/conceitoe_ferramentas.png" alt="Certificado-Python" width="200"/> </td>
   </tr>
     <tr>
-    <td><img src="imagens/data_science/big_data.png" alt="Certificado-Big_data" width="200"/></td>
+    <td><img src="./imagens/data_science/big_data.png" alt="Certificado-Big_data" width="200"/></td>
   </tr>
 </table>
 
