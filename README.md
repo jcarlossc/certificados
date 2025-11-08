@@ -72,7 +72,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/python/python80.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/python_enap.png" alt="Certificado-Python" width="200"/></td>
-    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
+    <td><img src="imagens/python/python_cap.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/funcoes_python1.png" alt="Certificado-Python" width="200"/></td>
   </tr> 
@@ -107,6 +107,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>
     <td><img src="imagens/python/heranca_python.png" alt="Certificado-Python" width="200"/></td>  
+    <td><img src="imagens/python/encapsulamento_python.png" alt="Certificado-Python" width="200"/></td>  
   </tr> 
 </table>
 
