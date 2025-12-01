@@ -296,14 +296,6 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ---
 
-## 📌 Portfólio
-
-Veja meus projetos práticos e aplicações reais em:
-
-📌 **[portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)**
-
----
-
 ## 📌 Licença
 
 Este repositório é apenas demonstrativo, com intuito de compartilhar minha formação contínua. Os certificados são pessoais e intransferíveis.
