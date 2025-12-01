@@ -15,9 +15,6 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 - Análise de dados
 - Visualização de dados
 
-> 📌 Veja os projetos práticos com Python no meu portfólio:  
-> 🔗 [portfolio-carlos-costa.netlify.app](https://portfolio-carlos-costa.netlify.app/)
-
 ---
 
 ## 📌 Lista de Certificados
@@ -292,7 +289,6 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 📌Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
 📌Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
 📌Email: jcarlossc1977@gmail.com<br>
-📌Portfólio em construção: https://portfolio-carlos-costa.netlify.app/<br>
 📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
 📌GitHub: https://github.com/jcarlossc<br>
 📌Kaggle: https://www.kaggle.com/jcarlossc/  
