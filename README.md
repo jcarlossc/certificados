@@ -40,6 +40,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
     <td><img src="./imagens/R/cert-r.png" alt="Certificado-R" width="200"/> </td>
     <td><img src="./imagens/R/analise-r.png" alt="Certificado-R" width="200"/> </td>
+    <td><img src="./imagens/R/linguagem_r.png" alt="Certificado-R" width="200"/> </td>
   </tr>   
 </table>
 
