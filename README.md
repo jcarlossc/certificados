@@ -120,6 +120,14 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
+    <caption><img src="icons/grafico.png" alt="Ícone-Grafico" width="20"/> Excel</caption>
+  <tr>
+     <td><img src="./imagens/excel/excel_01.png" alt="Certificado-Excel" width="200"/></td>
+     <td><img src="./imagens/excel/excel_02.png" alt="Certificado-Excel" width="200"/></td>
+  </tr>
+</table>
+
+<table>
     <caption><img src="icons/machine.png" alt="Ícone-Machine-Learning" width="20"/> Machine Learning - Python/R/Scilab/Anaconda/Colab/Jupyter</caption>
   <tr>
     <td><img src="imagens/machine_learning/algoritmos_geneticos.png" alt="Certificado-Machine-Learning" width="200"/> </td>
