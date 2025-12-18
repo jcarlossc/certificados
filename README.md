@@ -124,6 +124,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
   <tr>
      <td><img src="./imagens/excel/excel_01.png" alt="Certificado-Excel" width="200"/></td>
      <td><img src="./imagens/excel/excel_02.png" alt="Certificado-Excel" width="200"/></td>
+     <td><img src="./imagens/excel/excel_03.png" alt="Certificado-Excel" width="200"/></td>
   </tr>
 </table>
 
