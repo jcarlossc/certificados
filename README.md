@@ -1,20 +1,25 @@
 # 📌 Meus Certificados em Tecnologia
 
-Este repositório reúne meus principais certificados em tecnologia, conquistados ao longo da minha jornada de transição de carreira. Eles representam minha dedicação constante ao aprendizado e à prática de habilidades essenciais para o desenvolvimento de software, com **ênfase em Python** e também abrangendo outras linguagens e áreas fundamentais.
+Este repositório reúne meus principais certificados em tecnologia, conquistados ao longo da minha jornada de transição de carreira. Eles representam minha dedicação constante ao aprendizado e à prática de habilidades essenciais para o desenvolvimento de software, com **ênfase em Python e linguagem R** e também abrangendo outras linguagens e áreas fundamentais.
 
 ## 📌 Principais Competências
 
-### 📌 Python (Foco principal)
+### 📌 Python 
+- Análise de Dados
+- Visualização de dados
 - Manipulação de dados com `pandas`, `numpy`
-- APIs com `Flask` e `Bottle`
+- Frameworks `Flask` e `Bottle`
 - Orientação a Objetos, Padrões de Projeto (SOLID, Strategy, Command etc.)
-- Testes com `unittest`
-- Web scraping com `requests`, `BeautifulSoup`, `Selenium`
+- Testes com `unittest` e `pytest`
+- Web scraping com `requests`, `BeautifulSoup`
 - Automatizações e integração com GitHub API
 - Tipagem estática (`mypy`) e boas práticas
-- Análise de dados
+### 📌 Linguagem R 
+- Análise de Dados
 - Visualização de dados
-
+- Manipulação de dados com `tidyverse`
+- RStudio
+- Shiny 
 ---
 
 ## 📌 Lista de Certificados
@@ -295,18 +300,17 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 
 ## 📌 Contatos
 
-**José Carlos Soare da Costa**  
-📌Recife, PE - Brasil<br>
-📌Telefone: +55 81 99712 9140<br>
-📌Telegram: @jcarlossc<br>
-📌Pypi: https://pypi.org/user/jcarlossc/<br>
-📌Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
-📌Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
-📌Email: jcarlossc1977@gmail.com<br>
-📌LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
-📌GitHub: https://github.com/jcarlossc<br>
-📌Kaggle: https://www.kaggle.com/jcarlossc/  
-📌Twitter/X: https://x.com/jcarlossc1977
+* Recife, PE - Brasil<br>
+* Telefone: +55 81 99712 9140<br>
+* Telegram: @jcarlossc<br>
+* Pypi: https://pypi.org/user/jcarlossc/<br>
+* Blogger linguagem R: [https://informaticus77-r.blogspot.com/](https://informaticus77-r.blogspot.com/)<br>
+* Blogger linguagem Python: [https://informaticus77-python.blogspot.com/](https://informaticus77-python.blogspot.com/)<br>
+* Email: jcarlossc1977@gmail.com<br>
+* LinkedIn: https://www.linkedin.com/in/carlos-da-costa-669252149/<br>
+* GitHub: https://github.com/jcarlossc<br>
+* Kaggle: https://www.kaggle.com/jcarlossc/  
+* Twitter/X: https://x.com/jcarlossc1977
 
 ---
 
