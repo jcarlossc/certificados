@@ -32,7 +32,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <td><img src="./imagens/estatistica/estatistica.png" alt="Certificado-Estatística" width="200"/> </td>
     <td><img src="./imagens/estatistica/estatistica10.png" alt="Certificado-Estatística" width="200"/> </td>
     <td><img src="./imagens/estatistica/est_cursar.png" alt="Certificado-Estatística" width="200"/> </td>
-    <td><img src="./imagens/regressao.png" alt="Certificado-Estatística" width="200"/> </td>
+    <td><img src="./imagens/estatistica/regressao.png" alt="Certificado-Estatística" width="200"/> </td>
   </tr>
 </table>
 
