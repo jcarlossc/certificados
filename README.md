@@ -53,7 +53,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
 </table>
 
 <table>
-    <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Data Science</caption>
+    <caption><img src="icons/python.png" alt="Ícone-Data-Science" width="20"/> Python - Análise de Dados</caption>
   <tr>
     <td><img src="./imagens/data_science/texto.png" alt="Certificado-Data-Science" width="200"/></td>
     <td><img src="./imagens/data_science/redes_complexas.png" alt="Certificado-Data-Science" width="200"/></td>
