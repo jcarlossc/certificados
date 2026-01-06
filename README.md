@@ -54,6 +54,7 @@ Este repositório reúne meus principais certificados em tecnologia, conquistado
     <caption><img src="icons/grafico.png" alt="Ícone-Grafico" width="20"/> Visualização de Dados</caption>
   <tr>
      <td><img src="./imagens/dataviz.png" alt="Certificado-Visualização de Dados" width="200"/></td>
+     <td><img src="./imagens/qlikv.png" alt="Certificado-Visualização de Dados" width="200"/></td>
   </tr>
 </table>
 
